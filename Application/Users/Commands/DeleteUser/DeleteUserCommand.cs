@@ -1,0 +1,3 @@
+namespace UsersApi.Application.Users.Commands.DeleteUser;
+
+public record DeleteUserCommand(int Id);

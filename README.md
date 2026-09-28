@@ -8,7 +8,7 @@ https://github.com/richar3990/UsersApi
 
 ## Requisitos
 
-* .NET 8 SDK
+* .NET 8.0.425 SDK
 * SQLite
 * Git
 
@@ -226,7 +226,7 @@ Esto evita compartir una misma instancia de `DbContext` entre operaciones concur
 
 ### Implementado
 
-* .NET 8
+* .NET 8.0.425
 * Minimal API
 * SQLite
 * Entity Framework Core
